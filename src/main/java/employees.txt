@@ -1,0 +1,21 @@
+Intern name:'asdf', email:'adf', age:45, salary:20000.0  (Intern)
+the TIntern name:'t', email:'ger4', age:23, salary:4432.0  (Intern)
+Intern name:'gg', email:'fdf', age:234, salary:66.0  (Intern)
+the TIntern name:'fdsg', email:'sgg', age:23456, salary:324.0  (Intern)
+Employee name:'gdk', email:'vdf', age:43, salary:35.0 
+Intern name:'Merle', email:'mee@g', age:1, salary:0.0  (Intern)
+Intern name:'Otto', email:'Otto@v', age:9, salary:20000.0  (Intern)
+Employee name:'ds', email:'nmvn@g', age:33, salary:5.6373889393993E13 
+Intern name:'Jim', email:'jim@', age:32, salary:1.0  (Intern)
+Employee name:'sfdg', email:'drgrs', age:67, salary:324.0 
+Intern name:'sdg', email:'dsfb', age:44, salary:122.0  (Intern)
+Intern name:'gs', email:'sgr2', age:23, salary:20000.0  (Intern)
+Intern name:'dgf', email:'sgfd', age:24, salary:20000.0  (Intern)
+Employee name:'kds', email:'sad', age:32, salary:4535.0 
+Intern name:'324', email:'plgsd', age:34, salary:20000.0  (Intern)
+Employee name:'dfsb', email:'fdgs', age:18, salary:12.0 
+Intern name:'dsg', email:'dsg', age:49, salary:20000.0  (Intern)
+Intern name:'gr', email:'da', age:19, salary:230004.0  (Intern)
+Intern name:'gr', email:'reg', age:33, salary:20000.0  (Intern)
+Intern name:'dvgfs', email:'fdsb', age:123, salary:134134.0  (Intern)
+Intern name:'dfbhs', email:'sdh', age:234, salary:20000.0  (Intern)
